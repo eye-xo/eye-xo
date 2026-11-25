@@ -1,11 +1,11 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6a0dad,100:b266ff&height=220&section=header&text=Rohit%20Roshan%20Sahu&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20eye-xo&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6a0dad,100:b266ff&height=220&section=header&text=Rohit%20Roshan%20Sahu&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20eye-xo&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/eye-xo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rohit+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Teaching+Assistant+%40+Coding+Ninjas+%F0%9F%8E%93;Currently+learning+Next.js+%26+MySQL+%E2%9A%A1;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rohit+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Teaching+Assistant+%40+Coding+Ninjas+%F0%9F%8E%93;Currently+learning+Next.js+%26+MySQL+%E2%9A%A1;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ```js
 const rohit = {
-  role:        "MERN Stack Developer 🚀",
+  role:        "Full Stack Developer 🚀",
   currently:   "Teaching Assistant @ Coding Ninjas 🎓",
   experience:  "~6 months of internships building real web apps",
   stack:       ["MongoDB", "Express.js", "React.js", "Node.js"],
@@ -32,7 +32,7 @@ const rohit = {
 };
 ```
 
-- 🔭 Crafting robust full-stack web apps with the **MERN** stack
+- 🔭 Crafting robust full-stack web apps with the **Full** stack
 - 🎓 Helping aspiring developers level up at **Coding Ninjas**
 - 🌱 Diving deep into **Next.js** & **MySQL** and modern app architecture
 - 💬 Open to collaborating on exciting projects — or just chatting tech 😄
