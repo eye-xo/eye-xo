@@ -106,10 +106,15 @@ const rohit = {
 </p>
 
 <!-- ═══════════════════════ TOP REPOS ═══════════════════════ -->
-## 🔝 Top Contributed Repos
+## 🔝 Repo & Coding Insights
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=eye-xo&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repos"/>
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="100%"/>
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="32%"/>
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="32%"/>
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="32%"/>
 </p>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
